@@ -31,7 +31,7 @@ You can use it in two ways:
 
 Want to try it out right away? Deploy directly to DigitalOcean App Platform with one click:
 
-[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/digitalocean/do-starter-kit-internal/tree/main)
+[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/ajot/do-starter-kit-ajot/tree/main)
 
 ## What's Included
 
